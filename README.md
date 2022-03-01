@@ -1,6 +1,8 @@
-# Vue 3 + Vite
+# Meme Maker App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple meme making web app developed using [Vue 3](https://vuejs.org/).
+
+Checkout its working [Demo](https://meme-maker-r.web.app/).
 
 ## Recommended IDE Setup
 
